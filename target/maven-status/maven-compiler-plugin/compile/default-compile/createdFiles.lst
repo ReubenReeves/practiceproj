@@ -1,0 +1,13 @@
+com\practice\jsonmodels\MatchesHistoryJson.class
+com\practice\utils\ObjectConverter.class
+com\practice\services\BaseService.class
+com\practice\dao\BaseDAOImpl.class
+com\practice\utils\WebConnector.class
+com\practice\dao\BaseDAO.class
+com\practice\jsonmodels\MatchJson.class
+com\practice\models\Account.class
+com\practice\models\Match.class
+com\practice\jsonmodels\AccountJson.class
+com\practice\services\BaseServiceImpl.class
+com\practice\utils\JsonParser.class
+com\practice\controllers\BaseController.class
